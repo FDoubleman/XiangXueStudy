@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "XiangXue"
 include ':app'
+include ':KTlib'
