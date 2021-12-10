@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.XiangXue">
         <activity
-            android:name=".MainActivity"
+            android:name="com.derry.kt_coroutines.study.p4.MainActivity6"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.XiangXue.NoActionBar">
